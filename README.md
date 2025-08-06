@@ -1,39 +1,38 @@
-# 🏨 Hotel Booking Website (Fullstack with Node.js + MySQL)
+#  Hotel Booking Website (Fullstack with Node.js + MySQL)
 
 Website ini adalah sistem pemesanan kamar hotel secara online dengan backend menggunakan **Node.js (Express)** dan database **MySQL**, serta frontend menggunakan **HTML, CSS, dan JavaScript**.
 
 ---
 
-## 🎯 Tujuan Proyek
+## Tujuan Proyek
 
 Membuat sistem booking kamar hotel online yang:
 
-- ✅ User-friendly  
-- ✅ Bisa dikelola oleh admin  
-- ✅ Responsive dan fleksibel  
+- User-friendly  
+- Responsive dan fleksibel  
 
 ---
 
-## 🚀 Fitur Utama
+##  Fitur Utama
 
-### 👤 Untuk Pengunjung / User
-- 🏠 Halaman Home
-- 🛏️ Daftar kamar (dengan foto, harga, deskripsi)
-- 🧾 Booking online
-- 📬 Formulir kontak
-- 🖼️ Galeri foto hotel
-- 🌟 Review / Testimoni pelanggan
-- 🌐 Dukungan multi-bahasa (Indonesia & Inggris)
+###  Untuk Pengunjung / User
+- Halaman Home
+- Daftar kamar (dengan foto, harga, deskripsi)
+- Booking online
+- Formulir kontak
+- Galeri foto hotel
+- Review / Testimoni pelanggan
+- Dukungan multi-bahasa (Indonesia & Inggris)
 
-### 🔐 Untuk Admin
-- 🔑 Login Admin
-- 🛠️ Manajemen kamar (CRUD)
-- 📋 Manajemen booking
-- 💬 Manajemen testimoni
+### Untuk Admin
+- Login Admin
+- Manajemen kamar (CRUD)
+- Manajemen booking
+- Manajemen testimoni
 
 ---
 
-## ⚙️ Teknologi yang Digunakan
+##  Teknologi yang Digunakan
 
 | Komponen       | Teknologi                        |
 |----------------|----------------------------------|
@@ -46,10 +45,6 @@ Membuat sistem booking kamar hotel online yang:
 | Deployment     | Localhost / Render / Vercel (Frontend) |
 
 ---
-
-## 🛠️ Cara Instalasi
-
-1. **Clone repositori**
    ```bash
    git clone https://github.com/username/hotel-booking-website.git
    cd hotel-booking-website
